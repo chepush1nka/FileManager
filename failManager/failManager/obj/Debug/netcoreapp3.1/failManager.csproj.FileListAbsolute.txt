@@ -1,0 +1,13 @@
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.exe
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.deps.json
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.runtimeconfig.json
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.runtimeconfig.dev.json
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.dll
+C:\Users\pasha\source\repos\failManager\failManager\bin\Debug\netcoreapp3.1\failManager.pdb
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.AssemblyInfoInputs.cache
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.AssemblyInfo.cs
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.dll
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.pdb
+C:\Users\pasha\source\repos\failManager\failManager\obj\Debug\netcoreapp3.1\failManager.genruntimeconfig.cache
